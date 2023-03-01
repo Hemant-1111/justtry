@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello again Hemant"<<endl;
+    cout<<"This is the multiplication featur"<<endl;
 }
